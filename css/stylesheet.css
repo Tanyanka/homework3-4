@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+form {
+    margin-left: 6%;
+}
+p {
+    font-size: 1.5em;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #337ab7;
+}
+.funkyradio {
+    margin-bottom: 10px;
+}
+.funkyradio-primary {
+    margin-left: 25px;
+}
